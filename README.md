@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h1 align="center"> Hi 👋, I'm Akshay Sable</h1>
 <h3 align="center">A passionate Frontend Developer from India :)</h3>
-🌱 I’m currently Working as a Frontend Developer Intern @Provaantech pvt ltd <br>💬 Ask me about<br>⚡ Fun fact
+🌱 I’m currently Working as a Software Developer @Provaantech pvt ltd <br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
